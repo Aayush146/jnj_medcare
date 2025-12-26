@@ -1,0 +1,16 @@
+# excel files
+*.xls
+*.xlsx
+*.xlsm
+
+# python compiled files
+*.pyc
+*.pyo
+__pycache__/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# virtual environments
+venv/
+env/
+.venv/
